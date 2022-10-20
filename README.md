@@ -29,7 +29,10 @@ $ docker-compose up
     URL - http://localhost:90/images/Xbox4.png
 
 
-By default, IP from Poland redirects to app1,app2, all other redirects to app3, app4. App 5 is backup server.
+By default, IP from Poland redirects to app1,app2, all other redirects to app3, app4.
+
+App 5 is backup server.
+
 Response header 'custom' shows information about which app responds, 'iso' shows which location you have.
 
 ![image](https://user-images.githubusercontent.com/112312750/196042388-5b07e173-8a66-44db-830e-e952497cab3f.png)
